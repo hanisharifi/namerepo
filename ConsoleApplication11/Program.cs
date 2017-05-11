@@ -10,6 +10,7 @@ namespace ConsoleApplication11
     {
         static void Main(string[] args)
         {
+            int l = 0;
         }
     }
 }
